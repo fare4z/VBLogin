@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\AddressList\bin\Debug\AddressList.exe.config
+C:\Users\Administrator\Desktop\AddressList\bin\Debug\AddressList.exe
+C:\Users\Administrator\Desktop\AddressList\bin\Debug\AddressList.pdb
+C:\Users\Administrator\Desktop\AddressList\bin\Debug\AddressList.xml
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.vbproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.Form1.resources
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.Resources.resources
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.Register.resources
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.vbproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.exe
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.xml
+C:\Users\Administrator\Desktop\AddressList\obj\Debug\AddressList.pdb
